@@ -195,7 +195,7 @@ input, select, textarea {
 		font-weight: 300;
 		line-height: 1.375;
 		letter-spacing: -0.05em;
-		margin: 0 0 1rem 0;
+		margin: 0 0 0.5rem 0;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -2694,7 +2694,7 @@ input, select, textarea {
 
 	ul {
 		list-style: disc;
-		margin: 0 0 2rem 0;
+		margin: 0 0 0 0;
 		padding-left: 1rem;
 	}
 
@@ -3664,7 +3664,7 @@ input, select, textarea {
 		.banner.style2 .content {
 			padding: 5.25rem 5.25rem 3.25rem 5.25rem ;
 			position: relative;
-			width: 40rem;
+			width: 30rem;
 			max-width: 100%;
 			background-color: inherit;
 			border-radius: 0.5rem;
@@ -3726,7 +3726,7 @@ input, select, textarea {
 			}
 
 				.banner.style2 .content {
-					padding: 4rem 3rem 2rem 3rem ;
+					padding: 1rem 0 0 0 ;
 				}
 
 		}
